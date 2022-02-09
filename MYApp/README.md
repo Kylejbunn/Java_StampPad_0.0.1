@@ -16,7 +16,7 @@ StampPad aims to smooth out my morning login routine by providing a tool that pr
 * Security Functions including pin lock and file encryption/protection
 * Aesthetic Improvements
 
-[Software Demo Video](https://youtu.be/P5krKMazOfs)
+[Software Demo Video](https://youtu.be/9vRbrvgiLXE)
 
 # Development Environment
 
